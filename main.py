@@ -31,7 +31,7 @@ def idade_media():
 
 # coletar row codigo_assessores
 # coletar row custodia
-# separar assessores com mais de um cliente em array separado
+# separar assessores com mais de um cliente em array diferente
 # o array duplicado concatena com o primeiro array somando a custodia dos clientes
 
 qnt_clientes()
